@@ -1,0 +1,77 @@
+{
+  "generator": "scripts/draw_applied_cases.py",
+  "run": "python scripts/draw_applied_cases.py",
+  "photo_status": "AI生成虚构书刊；不是实际品牌、建筑或出版物",
+  "cases": [
+    {
+      "image": "assets/images/applied-v2-06-a.png",
+      "chapter": 6,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "完整海报：低对比文字与高对比文字，摄影/版式/字号不变；文字对比为1.78:1",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-06-b.png",
+      "chapter": 6,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "完整海报：低对比文字与高对比文字，摄影/版式/字号不变；文字对比为7.63:1",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-16-a.png",
+      "chapter": 16,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "同一海报冻结骨架，分步恢复阅读、减少竞争、明确预约入口；最后增加链接下划线",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-16-b.png",
+      "chapter": 16,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "同一海报冻结骨架，分步恢复阅读、减少竞争、明确预约入口；最后增加链接下划线",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-16-c.png",
+      "chapter": 16,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "同一海报冻结骨架，分步恢复阅读、减少竞争、明确预约入口；最后增加链接下划线",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-16-d.png",
+      "chapter": 16,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "同一海报冻结骨架，分步恢复阅读、减少竞争、明确预约入口；最后增加链接下划线",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-21-a.png",
+      "chapter": 21,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "完整预约界面显示背景/正文/主操作/链接/选中/错误/危险角色；用词、边框、图标补充颜色",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-21-b.png",
+      "chapter": 21,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "完整预约界面显示背景/正文/主操作/链接/选中/错误/危险角色；用词、边框、图标补充颜色",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-23-a.png",
+      "chapter": 23,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "跨媒介交付记录：全部图像sRGB，不做CMYK/gamut映射；纸张外观是情境示意而非实际软打样",
+      "photo_source": "assets/images/case-editorial.png"
+    },
+    {
+      "image": "assets/images/applied-v2-23-b.png",
+      "chapter": 23,
+      "method": "Pillow精确排印与绘制；原比例嵌入同一AI虚构书刊摄影；嵌入sRGB ICC",
+      "lesson": "跨媒介交付记录：全部图像sRGB，不做CMYK/gamut映射；纸张外观是情境示意而非实际软打样",
+      "photo_source": "assets/images/case-editorial.png"
+    }
+  ]
+}

@@ -1,5 +1,101 @@
 [
   {
+    "id": "V201",
+    "title": "花店工作台：先看环境、骨架与焦点",
+    "kind": "generated",
+    "image": "assets/images/chapter-v2-observe.png",
+    "chapter_slug": "observe",
+    "summary": "从完整画面的面积、位置和明暗开始观察。"
+  },
+  {
+    "id": "V206",
+    "title": "完整海报：先把必要信息读清楚",
+    "kind": "applied",
+    "image": "assets/images/applied-v2-06-b.png",
+    "chapter_slug": "value",
+    "summary": "固定摄影与排版，只改变文字对比，比较实际阅读。"
+  },
+  {
+    "id": "R09",
+    "title": "Ibadan dun：靛蓝织物的具体语境",
+    "kind": "real",
+    "image": "assets/images/real-v2-adire-ibadan.png",
+    "chapter_slug": "culture",
+    "summary": "通过格子、文字与图案读出城市和工艺，而非套用颜色标签。"
+  },
+  {
+    "id": "V203",
+    "title": "同款休闲椅：区分三种修改意图",
+    "kind": "generated",
+    "image": "assets/images/chapter-v2-dimensions.png",
+    "chapter_slug": "dimensions",
+    "summary": "把换色相、改深浅和改鲜灰放进实际产品比较。"
+  },
+  {
+    "id": "R10",
+    "title": "神奈川冲浪里：可见层次与材料证据",
+    "kind": "real",
+    "image": "assets/images/real-v2-great-wave.png",
+    "chapter_slug": "history",
+    "summary": "把画面观察和馆方材料研究分开理解。"
+  },
+  {
+    "id": "V207",
+    "title": "包装：点缀色扩大为主体",
+    "kind": "generated",
+    "image": "assets/images/chapter-v2-area.png",
+    "chapter_slug": "area",
+    "summary": "让珊瑚色从细带变成外壳，比较货架上的视觉重量。"
+  },
+  {
+    "id": "V221",
+    "title": "预约界面：把颜色分配给任务",
+    "kind": "applied",
+    "image": "assets/images/applied-v2-21-a.png",
+    "chapter_slug": "semantics",
+    "summary": "完整页面中区分识别、主操作、选中、错误与危险操作。"
+  },
+  {
+    "id": "V205",
+    "title": "花艺：相近色与冷暖对置",
+    "kind": "generated",
+    "image": "assets/images/chapter-v2-wheel.png",
+    "chapter_slug": "wheel",
+    "summary": "先建立主导，再观察少量蓝紫如何改变暖色花材。"
+  },
+  {
+    "id": "V204",
+    "title": "陶色花器：墙面改变邻接关系",
+    "kind": "generated",
+    "image": "assets/images/chapter-v2-context.png",
+    "chapter_slug": "context",
+    "summary": "比较灰绿与灰粉环境中的物体与背景关系。"
+  },
+  {
+    "id": "V213",
+    "title": "海边建筑：可复算的图片取色",
+    "kind": "generated",
+    "image": "assets/images/chapter-v2-extract.png",
+    "chapter_slug": "extract",
+    "summary": "固定源文件与采样坐标，读出色号后再分配用途。"
+  },
+  {
+    "id": "V216",
+    "title": "海报修正：保留骨架，逐步定位问题",
+    "kind": "applied",
+    "image": "assets/images/applied-v2-16-d.png",
+    "chapter_slug": "repair",
+    "summary": "四步分别恢复阅读、减少竞争并明确预约入口。"
+  },
+  {
+    "id": "V223",
+    "title": "跨媒介：方案与样张怎样交付",
+    "kind": "applied",
+    "image": "assets/images/applied-v2-23-b.png",
+    "chapter_slug": "management",
+    "summary": "把屏幕预览和纸张样张条件一起记录，避免用截图代替打样。"
+  },
+  {
     "id": "R01",
     "title": "Spotify Wrapped 历年视觉",
     "kind": "real",

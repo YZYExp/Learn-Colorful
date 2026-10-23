@@ -1,0 +1,38 @@
+[
+  {
+    "id": "observe",
+    "prompt": "Use case: photorealistic-natural. One beautiful natural editorial photograph of a contemporary flower shop worktable near a large window. Large branching red-orange flowering quince stems, muted dusty pink roses, deep violet irises, pale cream flowers, broad dark green leaves, kraft paper wraps and one terracotta vessel. Visually organized thoughtful arrangement with abundant negative neutral plaster background, complex but coherent real scene, no people, no text, no swatches, no graphic labels. Soft neutral diffuse daylight, tactile matte paper and translucent petals, real imperfect plant details. Avoid rainbow clutter and oversaturation. Wide 3:2 composition, mature design-magazine quality. Teaching scene for observing dominant area, dark framework, focal accent and natural irregular colors; original fictional scene, not a real florist.",
+    "method": "built-in image_gen",
+    "image": "assets/images/chapter-v2-observe.png"
+  },
+  {
+    "id": "dimensions",
+    "prompt": "Use case: product-mockup. Sophisticated educational product collection photograph, portrait 2:3 composed of THREE generous horizontal photographic panels separated by thin pale dividers. All panels use exact same three elegantly sculptural modern upholstered lounge chairs in same identical evenly spaced composition, on plain neutral light studio background. TOP: three chairs in muted teal, warm terracotta and golden ochre with similar medium visual lightness, to illustrate hue families. MIDDLE: three chairs in pale dusty blue, medium dusty blue and deep navy, to illustrate light to dark. BOTTOM: three chairs in blue-grey, medium blue and vivid cobalt, to illustrate muted to vivid. Excellent material realism, subtle boucle texture, controlled diffuse neutral lighting, plausible legs and structure, no brands, no text, no swatches, no childish diagram. This is illustrative comparison, not instrumented measurement.",
+    "method": "built-in image_gen",
+    "image": "assets/images/chapter-v2-dimensions.png"
+  },
+  {
+    "id": "context",
+    "prompt": "Use case: product-mockup. Two vertically stacked refined editorial still life photographs for teaching surrounding-color effects. Same terracotta cylindrical ceramic vase containing one leafy branch, same pale oak pedestal, exact same centered camera perspective and soft neutral daylight. TOP scene backdrop is a softly lit desaturated sage green wall, BOTTOM scene backdrop is a softly lit muted dusty salmon wall. Vase should remain as visually similar warm terracotta as possible in both scenes, keep object silhouette and illumination unchanged. Mature understated interior editorial art direction, textured plaster and ceramic. No text, no palette chips, no logos. Portrait 2:3, top/bottom generous panels and thin divider. Fictional conceptual visual, no claim of colorimetric equality.",
+    "method": "built-in image_gen",
+    "image": "assets/images/chapter-v2-context.png"
+  },
+  {
+    "id": "wheel",
+    "prompt": "Use case: photorealistic-natural. A very sophisticated florist editorial diptych, two vertically stacked large photographic panels. Same off-white sculptural wide ceramic bowl, same composition and plain warm grey studio backdrop, same natural diffuse daylight. TOP floral arrangement: warm orange ranunculus, peach garden roses, creamy apricot flowers, restrained desaturated olive foliage, nuanced analogous warm colors. BOTTOM floral arrangement: warm orange ranunculus and peach roses balanced with a smaller quantity of blue-violet delphinium and irises, same restrained olive foliage, elegant complementary relationship, subtle palette rather than garish rainbow. Keep density and overall silhouette broadly comparable. Realistic botanicals and graceful asymmetry, excellent premium floral art direction. Portrait 2:3, no text, no diagrams or swatches, no logos. Original educational floral compositions.",
+    "method": "built-in image_gen",
+    "image": "assets/images/chapter-v2-wheel.png"
+  },
+  {
+    "id": "area",
+    "prompt": "Use case: product-mockup. Sophisticated skincare packaging teaching diptych, two vertically stacked LARGE product photographs. SAME original fictional cosmetic brand 'FORME', same three objects, same neutral grey studio, same frontal oblique composition and neutral diffuse light: tall rectangular lotion bottle, squat cream jar, upright carton. TOP design: warm ivory dominant bodies, dark navy large fine modern serif typography 'FORME', tiny coral band only at base. BOTTOM design: coral red dominant bodies, warm ivory typography 'FORME', small navy category band only at base. Mature minimalist product design, matte coated paper, satin plastic, practical clear hierarchy, no ornamental geometry, not a generic childish diagram. Preserve object shapes and camera. Portrait 2:3. Small regulatory text allowed as fine texture, prominent text only FORME. Fictitious brand, not an actual marketed product.",
+    "method": "built-in image_gen",
+    "image": "assets/images/chapter-v2-area.png"
+  },
+  {
+    "id": "extract",
+    "prompt": "Use case: photorealistic-natural. Single exquisite landscape editorial photograph of an original fictional quiet seaside architecture scene: cream plaster low wall and broad steps, muted terracotta sunlit archway, deep blue sea visible through a rectangular opening, one sparse olive tree casting delicate shadows, pale sand stone ground. Strong natural geometry with real tactile plaster, bright but soft Mediterranean late afternoon atmosphere. Balanced asymmetrical composition, visually pleasing nuanced color, not oversaturated tourist postcard. No people, no branding, no text, no swatches or numeric labels. Landscape 3:2. This scene is a fictional teaching photograph-style illustration for subsequent palette sampling, not a real building or historical evidence.",
+    "method": "built-in image_gen",
+    "image": "assets/images/chapter-v2-extract.png"
+  }
+]

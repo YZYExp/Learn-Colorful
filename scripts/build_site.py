@@ -103,10 +103,10 @@ def main():
     cases=json.loads(case_file.read_text()) if case_file.exists() else []
     case_cards=[];by_slug={c['slug']:c for c in docs}
     for case in cases[:8]:
-        if case['kind'] not in ('real','generated'):raise SystemExit('Unknown visual case kind '+case['id'])
+        if case['kind'] not in ('real','generated','applied'):raise SystemExit('Unknown visual case kind '+case['id'])
         chapter=by_slug.get(case['chapter_slug'])
         if not chapter:raise SystemExit('Unknown visual case chapter '+case['chapter_slug'])
-        label='真实案例' if case['kind']=='real' else 'AI 教学示意'
+        label={'real':'真实案例','generated':'AI 教学示意','applied':'原创应用图解'}[case['kind']]
         image=image_tag(ROOT/case['image'],case['title'])
         case_cards.append(f'<article class="case-card"><a class="case-image" href="{link(chapter)}" aria-label="阅读案例：{esc(case["title"])}">{image}</a><div class="case-copy"><span class="case-kind {case["kind"]}">{label}</span><h3><a href="{link(chapter)}">{esc(case["title"])}</a></h3><p>{esc(case["summary"])}</p><a class="case-read" href="{link(chapter)}">进入章节，看图解读 →</a></div></article>')
     case_index=by_slug.get('visual-cases')

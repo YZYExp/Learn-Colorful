@@ -56,3 +56,12 @@ Git首次提交只含零字节README，后续按书稿与图解进展叠加。
 - `references/real-cases.json`：真实图片原始地址、权利归属与所属章节。
 - `references/visual-cases.json`：首页精选与案例导航清单。
 - `editorial/generated-case-prompts.json`：生图提示词、方法与输出路径。
+
+## 逐章应用补充（2026-10-23）
+
+针对仍只有抽象示意的13章，新增19张图像：6组生图场景、2张馆藏实图、10张精确应用面板与1张可复算取色图；第8章用已有服装图补充专门的冷暖解读。24章均有具体对象或完整设计案例，见视觉案例索引的逐章入口。图像覆盖不是完备性的替代，后续按概念需要继续扩展。
+
+- `editorial/chapter-visual-coverage.json`记录各章应用图实际引用。
+- `editorial/generated-chapter-v2-prompts.json`记录本轮6组生图。
+- `references/real-cases-v2.json`记录本轮馆藏图片来源。
+- `scripts/sample_chapter_photo.py`可复算第13章的采样色号。

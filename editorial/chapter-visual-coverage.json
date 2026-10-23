@@ -1,0 +1,258 @@
+[
+  {
+    "chapter": 1,
+    "source": "chapters/01-observe.md",
+    "title": "从生活中观察颜色",
+    "applied_lesson": "花店工作台：环境、骨架与焦点",
+    "applied_images": [
+      "../assets/images/chapter-v2-observe.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 2,
+    "source": "chapters/02-light.md",
+    "title": "光、物体与眼睛",
+    "applied_lesson": "涂层、陶器、玻璃与织物",
+    "applied_images": [
+      "../assets/images/case-materials.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 3,
+    "source": "chapters/03-dimensions.md",
+    "title": "色相、明度与彩度",
+    "applied_lesson": "同款椅子的色相、明暗与鲜灰",
+    "applied_images": [
+      "../assets/images/chapter-v2-dimensions.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 4,
+    "source": "chapters/04-context.md",
+    "title": "背景与环境如何改变颜色",
+    "applied_lesson": "花器与两种墙面背景",
+    "applied_images": [
+      "../assets/images/chapter-v2-context.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 5,
+    "source": "chapters/05-wheel.md",
+    "title": "色轮与配色关系",
+    "applied_lesson": "相近色与冷暖对置花艺",
+    "applied_images": [
+      "../assets/images/chapter-v2-wheel.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 6,
+    "source": "chapters/06-value.md",
+    "title": "明度结构与可读性",
+    "applied_lesson": "完整海报低／高对比",
+    "applied_images": [
+      "../assets/images/applied-v2-06-a.png",
+      "../assets/images/applied-v2-06-b.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 7,
+    "source": "chapters/07-area.md",
+    "title": "彩度、面积与视觉重心",
+    "applied_lesson": "护肤包装点缀与主体交换",
+    "applied_images": [
+      "../assets/images/chapter-v2-area.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 8,
+    "source": "chapters/08-rhythm.md",
+    "title": "冷暖、中性色与颜色节奏",
+    "applied_lesson": "外套与围巾的相对冷暖",
+    "applied_images": [
+      "../assets/images/case-fashion.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 9,
+    "source": "chapters/09-mood.md",
+    "title": "情绪与气氛",
+    "applied_lesson": "阅读角的日间与夜间",
+    "applied_images": [
+      "../assets/images/case-mood.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 10,
+    "source": "chapters/10-culture.md",
+    "title": "文化、习惯与语境",
+    "applied_lesson": "Ibadan dun靛蓝织物",
+    "applied_images": [
+      "../assets/images/real-v2-adire-ibadan.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 11,
+    "source": "chapters/11-history.md",
+    "title": "色彩历史与材料变化",
+    "applied_lesson": "《神奈川冲浪里》及材料证据",
+    "applied_images": [
+      "../assets/images/real-v2-great-wave.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 12,
+    "source": "chapters/12-style.md",
+    "title": "风格、趋势与当代审美",
+    "applied_lesson": "Spotify Wrapped历年视觉",
+    "applied_images": [
+      "../assets/images/real-spotify-wrapped.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 13,
+    "source": "chapters/13-extract.md",
+    "title": "从自然、摄影和作品中取色",
+    "applied_lesson": "建筑图片实际采样与角色选择",
+    "applied_images": [
+      "../assets/images/chapter-v2-extract.png",
+      "../assets/images/sample-v2-extract.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 14,
+    "source": "chapters/14-composition.md",
+    "title": "从色卡到完整画面",
+    "applied_lesson": "茶包装的三种主导关系",
+    "applied_images": [
+      "../assets/images/case-packaging.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 15,
+    "source": "chapters/15-roles.md",
+    "title": "为文字、图形与图像分配颜色",
+    "applied_lesson": "完整刊物中排印与摄影",
+    "applied_images": [
+      "../assets/images/case-editorial.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 16,
+    "source": "chapters/16-repair.md",
+    "title": "诊断与修正失败的配色",
+    "applied_lesson": "同一完整海报的四步修正",
+    "applied_images": [
+      "../assets/images/applied-v2-16-a.png",
+      "../assets/images/applied-v2-16-b.png",
+      "../assets/images/applied-v2-16-c.png",
+      "../assets/images/applied-v2-16-d.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 17,
+    "source": "chapters/17-identity.md",
+    "title": "品牌、海报与出版",
+    "applied_lesson": "Spotify产品与Penguin书脊",
+    "applied_images": [
+      "../assets/images/real-spotify-ui.png",
+      "../assets/images/real-penguin.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 18,
+    "source": "chapters/18-interface.md",
+    "title": "网页、App与数据图表",
+    "applied_lesson": "Duolingo界面的探索与改版",
+    "applied_images": [
+      "../assets/images/real-duolingo-bold.png",
+      "../assets/images/real-duolingo-soft.png",
+      "../assets/images/real-duolingo-final.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 19,
+    "source": "chapters/19-products.md",
+    "title": "服饰、产品与包装",
+    "applied_lesson": "iMac、键盘、服装与材料",
+    "applied_images": [
+      "../assets/images/material-board.png",
+      "../assets/images/real-imac.png",
+      "../assets/images/real-imac-keyboard.png",
+      "../assets/images/case-fashion.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 20,
+    "source": "chapters/20-space.md",
+    "title": "室内、建筑与环境",
+    "applied_lesson": "阅读空间与LEGO House",
+    "applied_images": [
+      "../assets/images/jianse-space.png",
+      "../assets/images/real-lego-house.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 21,
+    "source": "chapters/21-semantics.md",
+    "title": "主色、辅助色与语义角色",
+    "applied_lesson": "活动预约与取消确认完整界面",
+    "applied_images": [
+      "../assets/images/applied-v2-21-a.png",
+      "../assets/images/applied-v2-21-b.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 22,
+    "source": "chapters/22-themes.md",
+    "title": "色阶、深浅主题与状态",
+    "applied_lesson": "Carbon仪表盘与Firefox主题",
+    "applied_images": [
+      "../assets/images/real-carbon-light.png",
+      "../assets/images/real-carbon-dark.png",
+      "../assets/images/real-firefox.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 23,
+    "source": "chapters/23-management.md",
+    "title": "色域、印刷与颜色交付",
+    "applied_lesson": "屏幕交付与纸张样张记录",
+    "applied_images": [
+      "../assets/images/applied-v2-23-a.png",
+      "../assets/images/applied-v2-23-b.png"
+    ],
+    "embedded": true
+  },
+  {
+    "chapter": 24,
+    "source": "chapters/24-project.md",
+    "title": "从设计任务到完整色彩方案",
+    "applied_lesson": "间色全套文化空间物料",
+    "applied_images": [
+      "../assets/images/case-brand.png"
+    ],
+    "embedded": true
+  }
+]
