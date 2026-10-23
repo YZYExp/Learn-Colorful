@@ -8,11 +8,12 @@
 
 ## 构建
 
-需要Python 3.10或更高版本。
+需要Python 3.10或更高版本。重绘图片还需要已安装的Noto CJK、思源或苹方字体；可用 `COLOR_BOOK_FONT` 指定字体文件绝对路径。已有图片随工程提供，仅构建EPUB无需重绘。
 
 ```bash
 python -m pip install -r requirements.txt
 python scripts/draw_figures.py
+python scripts/draw_palette_studies.py
 python scripts/build.py --check
 python scripts/build.py
 ```

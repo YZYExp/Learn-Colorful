@@ -221,6 +221,12 @@
       "title": "易混词与阅读边界",
       "source": "appendices/02-glossary.md",
       "slug": "glossary"
+    },
+    {
+      "title": "八组配色，放进同一张海报",
+      "source": "appendices/03-palette-studies.md",
+      "slug": "palette-studies"
     }
-  ]
+  ],
+  "cover": "assets/images/cover.png"
 }

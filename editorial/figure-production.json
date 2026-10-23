@@ -1,0 +1,22 @@
+{
+  "format": "1200×1600 RGB PNG",
+  "method": "Pillow deterministic drawing",
+  "palette": [
+    "#24544B",
+    "#F6F1E7",
+    "#C86345",
+    "#202824"
+  ],
+  "font_file": "NotoSerifCJKsc-Regular.otf",
+  "figure_count": 27,
+  "notes": [
+    "RGB illustrations are not physical material proofs.",
+    "Figures 3 and 5 use HSL; not perceptually uniform.",
+    "Figure 6 uses WCAG relative luminance formula.",
+    "Figure 18 uses fictitious data."
+  ],
+  "contrasts": {
+    "#B9B8A8": 1.7793,
+    "#24544B": 7.6305
+  }
+}

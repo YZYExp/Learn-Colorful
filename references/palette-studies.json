@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "暖纸与墨绿",
+    "background": "#F6F1E7",
+    "text": "#202824",
+    "main": "#24544B",
+    "accent": "#C86345",
+    "text_contrast": 13.416639958844751,
+    "main_contrast": 7.630490648762242
+  },
+  {
+    "id": 2,
+    "title": "深蓝与柠黄",
+    "background": "#F3F6FA",
+    "text": "#192B52",
+    "main": "#244799",
+    "accent": "#E2BC39",
+    "text_contrast": 12.841090528006841,
+    "main_contrast": 7.952118286650116
+  },
+  {
+    "id": 3,
+    "title": "浅粉与深梅",
+    "background": "#FAEEF2",
+    "text": "#44273C",
+    "main": "#6A345A",
+    "accent": "#B86272",
+    "text_contrast": 11.60145507095279,
+    "main_contrast": 8.250228110662013
+  },
+  {
+    "id": 4,
+    "title": "沙色与灰蓝",
+    "background": "#F2E8DC",
+    "text": "#3C3027",
+    "main": "#465E70",
+    "accent": "#B45E3D",
+    "text_contrast": 10.553130127138532,
+    "main_contrast": 5.605467056030283
+  },
+  {
+    "id": 5,
+    "title": "亮蓝与青柠",
+    "background": "#F4F6FF",
+    "text": "#18233D",
+    "main": "#1649BF",
+    "accent": "#CAE34C",
+    "text_contrast": 14.460432609247965,
+    "main_contrast": 7.10833512897081
+  },
+  {
+    "id": 6,
+    "title": "深灰与浅金",
+    "background": "#242726",
+    "text": "#F4EEDC",
+    "main": "#F4EEDC",
+    "accent": "#C4A66C",
+    "text_contrast": 12.998689185602673,
+    "main_contrast": 12.998689185602673
+  },
+  {
+    "id": 7,
+    "title": "浅灰与鲜红",
+    "background": "#F1F1EF",
+    "text": "#242424",
+    "main": "#303030",
+    "accent": "#D84235",
+    "text_contrast": 13.725706444561016,
+    "main_contrast": 11.670067282147732
+  },
+  {
+    "id": 8,
+    "title": "淡紫与深靛",
+    "background": "#F0EEF8",
+    "text": "#2C2749",
+    "main": "#44387A",
+    "accent": "#BD714C",
+    "text_contrast": 12.246539755459807,
+    "main_contrast": 8.740955889736618
+  }
+]

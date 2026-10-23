@@ -42,6 +42,11 @@ def build(book):
     OUT.mkdir(exist_ok=True); report=validate(book)
     files=docs(book); paths={p.resolve():f'text/{i:02}.xhtml' for i,p in enumerate(files)}
     content={}; spine=[]; manifest=[]; nav=[]
+    if book.get('cover'):
+        content['assets/cover.png']=(ROOT/book['cover']).read_bytes()
+        content['text/cover.xhtml']=xhtml(book['title'],'<div><img src="../assets/cover.png" alt="色彩的语言：从看懂颜色到建立配色系统"/></div>').encode()
+        manifest.append('<item id="coverdoc" href="text/cover.xhtml" media-type="application/xhtml+xml"/>')
+        spine.append('<itemref idref="coverdoc"/>')
     for i,p in enumerate(files):
         raw=p.read_text(); title=raw.splitlines()[0].lstrip('# ').strip()
         def image_repl(m):
@@ -64,7 +69,7 @@ def build(book):
     content['style.css']=CSS.encode()
     manifest+=['<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>','<item id="css" href="style.css" media-type="text/css"/>']
     for i,k in enumerate(k for k in content if k.startswith('assets/')):
-        manifest.append(f'<item id="im{i}" href="{k}" media-type="{mimetypes.guess_type(k)[0]}"/>')
+        manifest.append(f'<item id="im{i}" href="{k}" media-type="{mimetypes.guess_type(k)[0]}"'+(' properties="cover-image"' if k=='assets/cover.png' else '')+'/>')
     modified=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     opf=f'''<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="uid">urn:tingly:color-language:2026</dc:identifier><dc:title>{book['title']}：{book['subtitle']}</dc:title><dc:language>zh-CN</dc:language><meta property="dcterms:modified">{modified}</meta></metadata><manifest>{''.join(manifest)}</manifest><spine>{''.join(spine)}</spine></package>'''
     content['content.opf']=opf.encode()
