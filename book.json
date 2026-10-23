@@ -203,5 +203,24 @@
       "slug": "project",
       "order": 24
     }
+  ],
+  "frontmatter": [
+    {
+      "title": "导读：让颜色有理由",
+      "source": "appendices/00-how-to-read.md",
+      "slug": "introduction"
+    }
+  ],
+  "backmatter": [
+    {
+      "title": "配色观察与实践手册",
+      "source": "appendices/01-workbook.md",
+      "slug": "workbook"
+    },
+    {
+      "title": "易混词与阅读边界",
+      "source": "appendices/02-glossary.md",
+      "slug": "glossary"
+    }
   ]
 }
