@@ -30,4 +30,19 @@ python scripts/build.py
 - `scripts/`：精确配图、校验与EPUB构建。
 - `book.json`：章节稳定ID、顺序、资源路径与未来阅读站URL slug。
 
-后续主页源码使用 `site/`，直接消费现有主稿与清单；本阶段未创建或部署网站。Git首次提交只含零字节README，后续按书稿与图解进展叠加。
+## 网页阅读与自动发布
+
+`site/` 保存样式和交互，`scripts/build_site.py` 直接读取现有主稿与 `book.json` 生成主页、分章阅读、全书搜索和配色对照。图片保持原比例，手机端目录可折叠；提供字号、深浅主题及继续阅读。
+
+```bash
+python -m pip install -r requirements-site.txt
+python scripts/build_site.py --base-path /Learn-Colorful/
+python scripts/check_site.py --base-path /Learn-Colorful/
+```
+
+网页输出为 `build/site/`，已忽略入Git。用于根路径预览时传入 `--base-path /`。若显式附带经过验证的电子书，可使用 `--epub build/色彩的语言.epub`；默认构建不会读取旧导出文件。
+
+`.github/workflows/pages.yml` 在main相关内容更新时独立构建和部署，PR只校验；仓库Pages的Source应为GitHub Actions。网站流程仅安装Markdown，不安装字体或重跑配图。
+
+`.github/workflows/ebook.yml` 独立导出并完整解码验证EPUB图片，产物为 `color-language-epub`，保留90天。网页中的离线阅读入口指向该流程，下载Actions附件需要登录GitHub。
+Git首次提交只含零字节README，后续按书稿与图解进展叠加。
