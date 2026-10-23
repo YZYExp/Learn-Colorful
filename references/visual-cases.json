@@ -1,0 +1,128 @@
+[
+  {
+    "id": "R01",
+    "title": "Spotify Wrapped 历年视觉",
+    "kind": "real",
+    "image": "assets/images/real-spotify-wrapped.png",
+    "chapter_slug": "style",
+    "chapter": "chapters/12-style.md",
+    "summary": "历年活动视觉如何扩大色彩范围，并借字体与内容维持识别。"
+  },
+  {
+    "id": "G02",
+    "title": "INTERVAL：摄影进入完整书刊",
+    "image": "assets/images/case-editorial.png",
+    "chapter_slug": "roles",
+    "chapter": "chapters/15-roles.md",
+    "summary": "钴蓝排印、陶红摄影与米白纸面共同形成阅读层级。",
+    "kind": "generated"
+  },
+  {
+    "id": "R05",
+    "title": "2024 iMac 与键盘配色",
+    "kind": "real",
+    "image": "assets/images/real-imac.png",
+    "chapter_slug": "products",
+    "chapter": "chapters/19-products.md",
+    "summary": "产品正面、背面与操作部件的颜色需要不同分工。"
+  },
+  {
+    "id": "G03",
+    "title": "茶包装：三种颜色轮流主导",
+    "image": "assets/images/case-packaging.png",
+    "chapter_slug": "composition",
+    "chapter": "chapters/14-composition.md",
+    "summary": "方盒、圆罐和纸袋换底色时，文字与插画也要适配。",
+    "kind": "generated"
+  },
+  {
+    "id": "R04",
+    "title": "Duolingo 核心标签栏改版研究",
+    "kind": "real",
+    "image": "assets/images/real-duolingo-bold.png",
+    "chapter_slug": "interface",
+    "chapter": "chapters/18-interface.md",
+    "summary": "比较强色、柔色探索与最终界面，理解颜色怎样适应信息。"
+  },
+  {
+    "id": "G01",
+    "title": "间色：海报、折页与日用品",
+    "image": "assets/images/case-brand.png",
+    "chapter_slug": "project",
+    "chapter": "chapters/24-project.md",
+    "summary": "同一套颜色怎样随纸张、布袋和杯面改变角色。",
+    "kind": "generated"
+  },
+  {
+    "id": "R06",
+    "title": "LEGO House 建筑",
+    "kind": "real",
+    "image": "assets/images/real-lego-house.png",
+    "chapter_slug": "space",
+    "chapter": "chapters/20-space.md",
+    "summary": "建筑体量、白色背景与局部彩色区域一起工作。"
+  },
+  {
+    "id": "G04",
+    "title": "阅读角：日间与夜间的整体方案",
+    "image": "assets/images/case-mood.png",
+    "chapter_slug": "mood",
+    "chapter": "chapters/09-mood.md",
+    "summary": "从墙面、照明和窗外环境，看气氛怎样共同形成。",
+    "kind": "generated"
+  },
+  {
+    "id": "R02",
+    "title": "Spotify 移动产品界面回顾",
+    "kind": "real",
+    "image": "assets/images/real-spotify-ui.png",
+    "chapter_slug": "identity",
+    "chapter": "chapters/17-identity.md",
+    "summary": "产品界面把内容封面放在前面，品牌色承担有限角色。"
+  },
+  {
+    "id": "R03",
+    "title": "Penguin 实体系列书脊",
+    "kind": "real",
+    "image": "assets/images/real-penguin.png",
+    "chapter_slug": "identity",
+    "chapter": "chapters/17-identity.md",
+    "summary": "从实体书脊观察系列的统一、变化与货架辨识。"
+  },
+  {
+    "id": "R07",
+    "title": "Carbon 完整明暗主题仪表盘",
+    "kind": "real",
+    "image": "assets/images/real-carbon-light.png",
+    "chapter_slug": "themes",
+    "chapter": "chapters/22-themes.md",
+    "summary": "同一仪表盘转入深色主题，需要重新组织表面与状态。"
+  },
+  {
+    "id": "R08",
+    "title": "Firefox 外观与主题选择",
+    "kind": "real",
+    "image": "assets/images/real-firefox.png",
+    "chapter_slug": "themes",
+    "chapter": "chapters/22-themes.md",
+    "summary": "浏览器主题和网页内容怎样形成不同层次。"
+  },
+  {
+    "id": "G05",
+    "title": "蓝色进入涂层、陶器、玻璃与织物",
+    "image": "assets/images/case-materials.png",
+    "chapter_slug": "light",
+    "chapter": "chapters/02-light.md",
+    "summary": "高光、透射、褶皱和灯光让相近的蓝产生不同外观。",
+    "kind": "generated"
+  },
+  {
+    "id": "G06",
+    "title": "穿搭：驼色与蓝色的面积交换",
+    "image": "assets/images/case-fashion.png",
+    "chapter_slug": "products",
+    "chapter": "chapters/19-products.md",
+    "summary": "保留服装轮廓，比较外套与围巾的冷暖分工。",
+    "kind": "generated"
+  }
+]

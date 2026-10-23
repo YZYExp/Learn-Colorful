@@ -4,7 +4,7 @@
 
 ## 阅读顺序
 
-从 [导读](appendices/00-how-to-read.md) 开始，分章目录由 `book.json` 维护，详见 [目录](CONTENTS.md)。书中「间色」为原创虚构文化空间，品牌真实案例在正文链接官方资料；照片感情景图标注为AI教学示意。精确色块不以生成图作证。
+从 [导读](appendices/00-how-to-read.md) 开始，分章目录由 `book.json` 维护，详见 [目录](CONTENTS.md)。书中「间色」为原创虚构文化空间，真实案例在正文展示官方图像并链接资料；照片感情景图标注为AI教学示意。精确色块不以生成图作证。
 
 ## 构建
 
@@ -46,3 +46,13 @@ python scripts/check_site.py --base-path /Learn-Colorful/
 
 `.github/workflows/ebook.yml` 独立导出并完整解码验证EPUB图片，产物为 `color-language-epub`，保留90天。网页中的离线阅读入口指向该流程，下载Actions附件需要登录GitHub。
 Git首次提交只含零字节README，后续按书稿与图解进展叠加。
+
+## 本轮视觉修订
+
+新增8个真实案例分析（12张官方参考图），覆盖Spotify、Penguin、Duolingo、iMac、LEGO House、Carbon与Firefox；新增6组AI完整应用示意，覆盖品牌物料、刊物、包装、空间、材料与穿搭。全部嵌入对应正文，真实参考与AI示意分别标注。
+
+[视觉案例索引](appendices/04-visual-cases.md)提供集中浏览入口，首页精选8项。八组配色海报改用完整刊物摄影和精确编辑排印，保留同版式、同摄影、指定色号与可复算对比度。
+
+- `references/real-cases.json`：真实图片原始地址、权利归属与所属章节。
+- `references/visual-cases.json`：首页精选与案例导航清单。
+- `editorial/generated-case-prompts.json`：生图提示词、方法与输出路径。

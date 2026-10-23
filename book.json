@@ -226,6 +226,11 @@
       "title": "八组配色，放进同一张海报",
       "source": "appendices/03-palette-studies.md",
       "slug": "palette-studies"
+    },
+    {
+      "title": "视觉案例索引：从实物到配色判断",
+      "source": "appendices/04-visual-cases.md",
+      "slug": "visual-cases"
     }
   ],
   "cover": "assets/images/cover.png"

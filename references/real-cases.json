@@ -1,0 +1,154 @@
+[
+  {
+    "id": "R01",
+    "title": "Spotify Wrapped 历年视觉",
+    "chapter": "chapters/12-style.md",
+    "source_url": "https://newsroom.spotify.com/2026-04-23/spotify-design-history/",
+    "source_date": "2026-04-23",
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "Spotify 及相关作品权利人",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-spotify-wrapped.png",
+        "original_url": "https://storage.googleapis.com/pr-newsroom-wp/1/2026/04/Wrapped-Image-05.png"
+      }
+    ]
+  },
+  {
+    "id": "R02",
+    "title": "Spotify 移动产品界面回顾",
+    "chapter": "chapters/17-identity.md",
+    "source_url": "https://newsroom.spotify.com/2026-04-23/spotify-design-history/",
+    "source_date": "2026-04-23",
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "Spotify 及相关内容权利人",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-spotify-ui.png",
+        "original_url": "https://storage.googleapis.com/pr-newsroom-wp/1/2026/04/S20-Design-23839-1920x733.png"
+      }
+    ]
+  },
+  {
+    "id": "R03",
+    "title": "Penguin 实体系列书脊",
+    "chapter": "chapters/17-identity.md",
+    "source_url": "https://www.penguin.co.uk/about/history",
+    "source_date": null,
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "Penguin Random House 及摄影权利人",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-penguin.png",
+        "original_url": "https://wp.penguin.co.uk/wp-content/uploads/2023/04/PG-Wodehouse_Online-Desktop_Penguin-768x512.jpg"
+      }
+    ]
+  },
+  {
+    "id": "R04",
+    "title": "Duolingo 核心标签栏改版研究",
+    "chapter": "chapters/18-interface.md",
+    "source_url": "https://blog.duolingo.com/core-tabs-redesign/",
+    "source_date": "2026-02-04",
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "Duolingo",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-duolingo-bold.png",
+        "original_url": "https://storage.ghost.io/c/7a/33/7a33d0f4-927d-4fe8-a6bf-96131b5e76d4/content/images/2026/01/4.-Caption.-Punchy_-solid--vibrant-colored-headers-1.png"
+      },
+      {
+        "path": "assets/images/real-duolingo-soft.png",
+        "original_url": "https://storage.ghost.io/c/7a/33/7a33d0f4-927d-4fe8-a6bf-96131b5e76d4/content/images/2026/01/5.-Caption.-Soft_-calming-gradients-and-colors.-1.png"
+      },
+      {
+        "path": "assets/images/real-duolingo-final.png",
+        "original_url": "https://storage.ghost.io/c/7a/33/7a33d0f4-927d-4fe8-a6bf-96131b5e76d4/content/images/2026/01/12.-Caption.-Tab-Refresh.-Before-and-after-comparison-1.png"
+      }
+    ]
+  },
+  {
+    "id": "R05",
+    "title": "2024 iMac 与键盘配色",
+    "chapter": "chapters/19-products.md",
+    "source_url": "https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/",
+    "source_date": "2024-10-28",
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "Apple",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-imac.png",
+        "original_url": "https://www.apple.com/newsroom/images/2024/10/apple-introduces-new-imac-supercharged-by-m4/article/Apple-iMac-M4-hero_big.jpg.large.jpg"
+      },
+      {
+        "path": "assets/images/real-imac-keyboard.png",
+        "original_url": "https://www.apple.com/newsroom/images/2024/10/apple-introduces-new-imac-supercharged-by-m4/article/Apple-iMac-M4-green-Magic-Keyboard_photogrid.jpg.large.jpg"
+      }
+    ]
+  },
+  {
+    "id": "R06",
+    "title": "LEGO House 建筑",
+    "chapter": "chapters/20-space.md",
+    "source_url": "https://dac.dk/en/magazine/places/lego-house-playful-building-design-385",
+    "source_date": "2017（建成）",
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "摄影 Kim Christensen / DAC 项目页面",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-lego-house.png",
+        "original_url": "https://dac.kontainer.com/cdn/aS5T0huYQPzS/1.webp"
+      }
+    ]
+  },
+  {
+    "id": "R07",
+    "title": "Carbon 完整明暗主题仪表盘",
+    "chapter": "chapters/22-themes.md",
+    "source_url": "https://www.carbondesignsystem.com/building-blocks/foundations/color/overview",
+    "source_date": null,
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "IBM",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-carbon-light.png",
+        "original_url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cxp-prod-payload-cms/color-overview-themes-white.png"
+      },
+      {
+        "path": "assets/images/real-carbon-dark.png",
+        "original_url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cxp-prod-payload-cms/color-overview-themes-gray90.png"
+      }
+    ]
+  },
+  {
+    "id": "R08",
+    "title": "Firefox 外观与主题选择",
+    "chapter": "chapters/22-themes.md",
+    "source_url": "https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/",
+    "source_date": "2026-09-29",
+    "checked": "2026-10-23",
+    "type": "real-official-reference",
+    "rights": "Mozilla 及相关权利人",
+    "usage": "用于就近设计评论的缩放引用；非品牌授权或自由素材，不宣称官方标准色值",
+    "images": [
+      {
+        "path": "assets/images/real-firefox.png",
+        "original_url": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/09/In-Line-New-Style-1024x576.png"
+      }
+    ]
+  }
+]

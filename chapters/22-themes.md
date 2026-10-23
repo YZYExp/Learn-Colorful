@@ -46,6 +46,28 @@ Material 官方实现为浅色与深色主题配置不同的基础色阶与前�
 
 当这张检查卡工作稳定后，再放进真实页面。真实内容经常比示例长，会换行，也会出现无法预料的图片与数据。主题设计的完成条件是这些变化仍然可用，而不是色阶看起来排列得很整齐。
 
+## 真实系统｜Carbon 的完整仪表盘，怎样从浅色走向深色
+
+![IBM Carbon官方White主题完整仪表盘示例](../assets/images/real-carbon-light.png)
+
+*真实案例 R07-A｜Carbon White 主题仪表盘，IBM Carbon 官方文档示例。图像版权归 IBM，文档核查于2026-10-23。[来源：Color overview](https://www.carbondesignsystem.com/building-blocks/foundations/color/overview)。这是官方系统示例，不是本书虚构的上线产品截图。*
+
+![IBM Carbon官方Gray90主题完整仪表盘示例](../assets/images/real-carbon-dark.png)
+
+*R07-B｜同一文档中的 Gray 90 主题仪表盘。两图各自完整展开，便于核对面板、文字、操作与数据的层次。*
+
+先沿着顶部导航、侧栏、内容面板向下看，再比较蓝色操作与数据标记。Carbon 以中性色组织大面积环境，颜色并未平均铺给每一块内容。官方的主题规则还区分浅色与深色中的分层方式：颜色角色保持意义，具体表面颜色随主题映射。
+
+因此，制作间色深色页面时，应拿完整画面逐区检查。只展示一枚深色按钮，无法证明表格、弹层与次要文字都能成立；只把白底改黑，也无法重建背景与面板的相对层次。图里的数据和标签用于展示系统布局，不作为本书的数据研究结论。
+
+## 另一个方向｜Firefox 让主题变化容纳个性
+
+![Mozilla官方展示的Firefox多种界面外观与摄影背景组合](../assets/images/real-firefox.png)
+
+*真实案例 R08｜Firefox 界面外观与摄影背景，Mozilla 官方设计发布材料，2026-09-29，版权归 Mozilla 及相关权利人。[来源：More modern. More flexible. Still Firefox.](https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/)。记录该发布时的界面，不保证与读者设备当前版本一致。*
+
+和 Carbon 对照看，浏览器主题允许更明显的个性表达，而任务型仪表盘需要让大量内容稳定呈现。这不是两种颜色风格的优劣排序。应观察工具栏、当前标签与内容区能否保持区分，再看装饰颜色是否与网页内容争抢注意。主题系统的目标是在允许变化时仍然找得到操作，而不是让每个像素永远使用相同颜色。
+
 ## 本章资料
 
 - W3C：[CSS Color Module Level 4](https://www.w3.org/TR/css-color-4/)，颜色表示、转换与色域；该文档为持续更新的候选推荐草案。

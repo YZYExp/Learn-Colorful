@@ -44,6 +44,18 @@
 
 最后站到门外，再走到桌边，检查同一信息在远近两个尺度是否清楚。观察的重点不是给房间打美丑分，而是建立“使用任务—光照—材料—颜色—位置”之间的联系。只有找到真正改变体验的变量，配色才会成为设计工具。
 
+## 建成案例｜LEGO House 把强色安排在建筑的不同观看层面
+
+![LEGO House白色建筑体块与彩色屋顶露台的实际照片](../assets/images/real-lego-house.png)
+
+*真实案例 R06｜LEGO House，丹麦比隆，BIG 设计，2017年建成。照片：Kim Christensen，经 Danish Architecture Center 的项目页面引用；版权归摄影师及相关权利人。[项目与图片出处](https://dac.dk/en/magazine/places/lego-house-playful-building-design-385)。*
+
+不要只从照片提取红、黄、蓝、绿。更值得看的是：白色体块构成连续背景，彩色露台出现在特定高度与区域，色彩的出现与建筑体量相互配合。地面、露台和高处观看的结果并不相同，空间配色需要考虑人从哪里接近、在哪停留。
+
+DAC 的项目介绍说明，内部展区采用四色分区，并把它们与不同学习主题关联。这是这个项目制定的语义，不是“红色天然等于创造力”的普遍规律。内部导航仍需名称、位置和空间线索共同工作，不能要求访客只靠色相辨认方向。
+
+迁移到间色时，可以先画出行走路线，再决定哪些位置需要被看见：入口、转角、服务台、展览边界。大色面应回答“人在这里需要识别什么”，而不是只回答“空房间拍照是否漂亮”。
+
 ## 本章资料
 
 - Benjamin Moore：[Lighting and Paint Colors](https://www.benjaminmoore.com/-/media/sites/benjaminmoore/images/color-card-pdf-landing-page/color-handbook_use.pdf)，官方色彩手册中的光照比较。

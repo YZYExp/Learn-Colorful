@@ -8,6 +8,7 @@ on:
       - 'appendices/**'
       - 'assets/images/**'
       - 'references/palette-studies.json'
+      - 'references/visual-cases.json'
       - 'book.json'
       - 'site/**'
       - 'scripts/build_site.py'

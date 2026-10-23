@@ -51,3 +51,5 @@
 - [配色观察与实践手册](appendices/01-workbook.md)
 - [易混词与阅读边界](appendices/02-glossary.md)
 - [八组配色，放进同一张海报](appendices/03-palette-studies.md)
+
+- [视觉案例索引：从实物到配色判断](appendices/04-visual-cases.md)

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mood",
+    "prompt": "Use case: photorealistic-natural. Create a beautiful educational diptych for a Chinese color design book, two vertically stacked FULL WIDTH photographic scenes, top and bottom. EXACT SAME small reading cafe interior with window, shelves, single round wood table and terracotta mug, no people. TOP: daylight, warm ivory walls, sage accents, soft contrast. BOTTOM: evening navy walls, amber light pools, deep walnut, dramatic but readable. Keep room layout and camera identical, show how lighting and surrounding colors change atmosphere. Refined contemporary editorial architecture photography, realistic texture, no text, no collage swatches. Portrait 2:3 image, narrow clean horizontal divider. This is an original fictional place, no real brand.",
+    "method": "built-in image_gen",
+    "image": "assets/images/case-mood.png"
+  },
+  {
+    "id": "packaging",
+    "prompt": "Use case: product-mockup. Educational editorial triptych, THREE vertically stacked large photographs of the SAME fictional tea packaging set, identical composition in each: upright box, cylinder tin, paper pouch and ceramic cup on a studio table. Top palette warm cream dominant, forest green typography 'JIANSE', small terracotta circle. Middle forest green dominant, cream typography 'JIANSE', small terracotta circle. Bottom terracotta dominant with cream typography 'JIANSE', small forest green circle. Beautiful meticulous credible contemporary packaging design, paper fibers, matte coating, soft neutral daylight, unobtrusive background. Typography minimal and correct, no extra prose, no labels, no brand imitation, no swatch-only images. Show color area and role swapping on actual objects. Portrait image 2:3, each panel generous and legible on mobile, no horizontal panel layout.",
+    "method": "built-in image_gen",
+    "image": "assets/images/case-packaging.png"
+  },
+  {
+    "id": "materials",
+    "prompt": "Use case: product-mockup. Educational photographic material study for color book, two vertically stacked generous images. TOP: same muted cobalt blue in a matte painted cube, glossy glazed ceramic bowl, translucent blue glass tumbler, blue woven fabric draped softly, arranged in one uncluttered row on warm pale grey studio ground. BOTTOM: same objects under warm side illumination, same positions and camera. Stunning tactile photographic realism with accurate reflections, transmission, textile weave, believable shadows. Explain visually why flat color chips cannot predict material appearance. No text, no labels, no hex codes, no brand, no swatch diagram. Portrait 2:3, clean horizontal division.",
+    "method": "built-in image_gen",
+    "image": "assets/images/case-materials.png"
+  },
+  {
+    "id": "editorial",
+    "prompt": "Use case: product-mockup. Sophisticated graphic design teaching photograph: a complete fictional independent cultural journal named 'INTERVAL', issue 04 about light. Open magazine on warm off-white desk next to closed cover and restrained event invitation. Authentic contemporary Swiss-influenced editorial design, carefully balanced huge condensed cobalt typography, nuanced warm ivory margins, black serif body columns, beautiful original red-orange architectural photograph, small vermilion folio marks. Real printed ink, binding, paper and shadows, very legible typographic hierarchy, no childish geometric clipart. Main view top-down showing cover AND open spreads at useful large scale, landscape 3:2. No paragraph gibberish in prominent areas; fine body text can be small. Original fictional brand, no real brand imitation. Full realized design, not a palette board. Editorial photo with exceptional taste.",
+    "method": "built-in image_gen",
+    "image": "assets/images/case-editorial.png"
+  },
+  {
+    "id": "fashion",
+    "prompt": "Use case: photorealistic-natural. Educational fashion color study, portrait diptych TWO large vertically stacked full-body editorial photos, SAME adult model, SAME relaxed standing pose and same pale neutral studio. Top outfit: warm ivory trousers, deep chocolate knit top, camel wool coat, muted dusty blue scarf, burgundy loafers. Bottom outfit: same garment types, ivory trousers, cobalt knit top, muted blue coat, camel scarf, burgundy loafers. Mature tasteful wearable fashion, premium textiles, realistic skin, natural body proportions, soft neutral daylight. Teach color placement, surrounding material and hierarchy; preserve exact camera and outfit silhouettes between panels. Contemporary catalog aesthetic, no text, no color swatches, no logos. Full feet and head visible, not tiny, 2:3 portrait.",
+    "method": "built-in image_gen",
+    "image": "assets/images/case-fashion.png"
+  },
+  {
+    "id": "brand",
+    "prompt": "Use case: product-mockup. A sophisticated complete ORIGINAL fictional cultural reading space identity called 'JIANSE' shown in one coherent photographic scene. A large elegant event poster mounted on wall, beautifully bound book, folded programme, ivory takeaway cup and deep green paper bag on a walnut gallery counter. Poster text ONLY 'JIANSE' 'READING ROOM' '24 OCT', strong mature editorial typography, spacious asymmetric grid, small evocative botanical photograph as central visual; no simple geometric clipart. Restrained deep forest green / warm ivory / terracotta system, ivory dominant paper, green dominant bag, terracotta only small event stamps. Tactile letterpress, recycled paper, realistic natural side daylight, excellent contemporary art direction. Show actual designed artifacts large enough to inspect, 3:2 landscape image. No real brand references or watermarks. This is a fictional educational design scenario.",
+    "method": "built-in image_gen",
+    "image": "assets/images/case-brand.png"
+  }
+]
