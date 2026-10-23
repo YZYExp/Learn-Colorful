@@ -1,0 +1,207 @@
+{
+  "title": "色彩的语言",
+  "subtitle": "从看懂颜色到建立配色系统",
+  "language": "zh-CN",
+  "parts": [
+    "颜色是怎么回事",
+    "颜色如何相处",
+    "颜色如何表达",
+    "从灵感到配色",
+    "颜色进入真实世界",
+    "建立自己的色彩系统"
+  ],
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "从生活中观察颜色",
+      "part": 1,
+      "source": "chapters/01-observe.md",
+      "slug": "observe",
+      "order": 1
+    },
+    {
+      "id": "ch02",
+      "title": "光、物体与眼睛",
+      "part": 1,
+      "source": "chapters/02-light.md",
+      "slug": "light",
+      "order": 2
+    },
+    {
+      "id": "ch03",
+      "title": "色相、明度与彩度",
+      "part": 1,
+      "source": "chapters/03-dimensions.md",
+      "slug": "dimensions",
+      "order": 3
+    },
+    {
+      "id": "ch04",
+      "title": "背景与环境如何改变颜色",
+      "part": 1,
+      "source": "chapters/04-context.md",
+      "slug": "context",
+      "order": 4
+    },
+    {
+      "id": "ch05",
+      "title": "色轮与配色关系",
+      "part": 2,
+      "source": "chapters/05-wheel.md",
+      "slug": "wheel",
+      "order": 5
+    },
+    {
+      "id": "ch06",
+      "title": "明度结构与可读性",
+      "part": 2,
+      "source": "chapters/06-value.md",
+      "slug": "value",
+      "order": 6
+    },
+    {
+      "id": "ch07",
+      "title": "彩度、面积与视觉重心",
+      "part": 2,
+      "source": "chapters/07-area.md",
+      "slug": "area",
+      "order": 7
+    },
+    {
+      "id": "ch08",
+      "title": "冷暖、中性色与颜色节奏",
+      "part": 2,
+      "source": "chapters/08-rhythm.md",
+      "slug": "rhythm",
+      "order": 8
+    },
+    {
+      "id": "ch09",
+      "title": "情绪与气氛",
+      "part": 3,
+      "source": "chapters/09-mood.md",
+      "slug": "mood",
+      "order": 9
+    },
+    {
+      "id": "ch10",
+      "title": "文化、习惯与语境",
+      "part": 3,
+      "source": "chapters/10-culture.md",
+      "slug": "culture",
+      "order": 10
+    },
+    {
+      "id": "ch11",
+      "title": "色彩历史与材料变化",
+      "part": 3,
+      "source": "chapters/11-history.md",
+      "slug": "history",
+      "order": 11
+    },
+    {
+      "id": "ch12",
+      "title": "风格、趋势与当代审美",
+      "part": 3,
+      "source": "chapters/12-style.md",
+      "slug": "style",
+      "order": 12
+    },
+    {
+      "id": "ch13",
+      "title": "从自然、摄影和作品中取色",
+      "part": 4,
+      "source": "chapters/13-extract.md",
+      "slug": "extract",
+      "order": 13
+    },
+    {
+      "id": "ch14",
+      "title": "从色卡到完整画面",
+      "part": 4,
+      "source": "chapters/14-composition.md",
+      "slug": "composition",
+      "order": 14
+    },
+    {
+      "id": "ch15",
+      "title": "为文字、图形与图像分配颜色",
+      "part": 4,
+      "source": "chapters/15-roles.md",
+      "slug": "roles",
+      "order": 15
+    },
+    {
+      "id": "ch16",
+      "title": "诊断与修正失败的配色",
+      "part": 4,
+      "source": "chapters/16-repair.md",
+      "slug": "repair",
+      "order": 16
+    },
+    {
+      "id": "ch17",
+      "title": "品牌、海报与出版",
+      "part": 5,
+      "source": "chapters/17-identity.md",
+      "slug": "identity",
+      "order": 17
+    },
+    {
+      "id": "ch18",
+      "title": "网页、App与数据图表",
+      "part": 5,
+      "source": "chapters/18-interface.md",
+      "slug": "interface",
+      "order": 18
+    },
+    {
+      "id": "ch19",
+      "title": "服饰、产品与包装",
+      "part": 5,
+      "source": "chapters/19-products.md",
+      "slug": "products",
+      "order": 19
+    },
+    {
+      "id": "ch20",
+      "title": "室内、建筑与环境",
+      "part": 5,
+      "source": "chapters/20-space.md",
+      "slug": "space",
+      "order": 20
+    },
+    {
+      "id": "ch21",
+      "title": "主色、辅助色与语义角色",
+      "part": 6,
+      "source": "chapters/21-semantics.md",
+      "slug": "semantics",
+      "order": 21
+    },
+    {
+      "id": "ch22",
+      "title": "色阶、深浅主题与状态",
+      "part": 6,
+      "source": "chapters/22-themes.md",
+      "slug": "themes",
+      "order": 22
+    },
+    {
+      "id": "ch23",
+      "title": "色域、印刷与颜色交付",
+      "part": 6,
+      "source": "chapters/23-management.md",
+      "slug": "management",
+      "order": 23
+    },
+    {
+      "id": "ch24",
+      "title": "从设计任务到完整色彩方案",
+      "part": 6,
+      "source": "chapters/24-project.md",
+      "slug": "project",
+      "order": 24
+    }
+  ]
+}
