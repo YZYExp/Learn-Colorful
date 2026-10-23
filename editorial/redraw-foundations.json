@@ -1,0 +1,355 @@
+[
+  {
+    "id": "03",
+    "width": 1080,
+    "height": 1540,
+    "text_items": 32,
+    "profile": "sRGB",
+    "verified": {
+      "H": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300
+      ],
+      "L": [
+        0.15,
+        0.28,
+        0.41,
+        0.54,
+        0.67,
+        0.8
+      ],
+      "S": [
+        0,
+        0.15,
+        0.3,
+        0.45,
+        0.6,
+        0.75
+      ],
+      "fixed": [
+        {
+          "S": 0.5,
+          "L": 0.45
+        },
+        {
+          "H": 160,
+          "S": 0.35
+        },
+        {
+          "H": 160,
+          "L": 0.45
+        }
+      ],
+      "samples": "18 swatch centre pixels exact"
+    }
+  },
+  {
+    "id": "04",
+    "width": 1080,
+    "height": 1530,
+    "text_items": 8,
+    "profile": "sRGB",
+    "verified": {
+      "centres": "#808080",
+      "backgrounds": [
+        "#202824",
+        "#F6F1E7"
+      ],
+      "verification_seam": "two adjacent pixels identical; no divider drawn"
+    }
+  },
+  {
+    "id": "05",
+    "width": 1080,
+    "height": 1770,
+    "text_items": 28,
+    "profile": "sRGB",
+    "verified": {
+      "ring": {
+        "S": 0.6,
+        "L": 0.52
+      },
+      "monochrome": {
+        "H": 160,
+        "S": 0.5,
+        "L": [
+          0.3,
+          0.45,
+          0.6
+        ]
+      },
+      "analogous": [
+        130,
+        160,
+        190
+      ],
+      "opposite": [
+        160,
+        340
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "width": 1080,
+    "height": 1470,
+    "text_items": 9,
+    "profile": "sRGB",
+    "verified": {
+      "area_counts": [
+        {
+          "ratio": 0.1,
+          "orange_columns": 94,
+          "width": 940,
+          "height": 250,
+          "orange_pixels": 23500,
+          "total_pixels": 235000
+        },
+        {
+          "ratio": 0.5,
+          "orange_columns": 470,
+          "width": 940,
+          "height": 250,
+          "orange_pixels": 117500,
+          "total_pixels": 235000
+        }
+      ],
+      "inclusive_pixel_edges": true,
+      "labels_outside_measured_colour_region": true
+    }
+  },
+  {
+    "id": "08",
+    "width": 1080,
+    "height": 1400,
+    "text_items": 13,
+    "profile": "sRGB",
+    "verified": {
+      "rows": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "modules": 6,
+      "module_width": 147,
+      "gap": 14
+    }
+  },
+  {
+    "id": "08b",
+    "width": 1080,
+    "height": 1350,
+    "text_items": 13,
+    "profile": "sRGB",
+    "verified": {
+      "fixed": "#9E8267",
+      "neighbours": [
+        "#C86345",
+        "#557C94"
+      ],
+      "right_panels": "pixel-identical RGB values"
+    }
+  },
+  {
+    "id": "02b",
+    "width": 1080,
+    "height": 1810,
+    "text_items": 10,
+    "profile": "sRGB",
+    "verified": {
+      "exact_8_bit_masks": true,
+      "alpha_blending": false,
+      "panels": [
+        {
+          "mode": "RGB",
+          "verified_sample_pixels": {
+            "single_R_or_C": {
+              "xy": [
+                300,
+                125
+              ],
+              "rgb": [
+                255,
+                0,
+                0
+              ]
+            },
+            "single_G_or_M": {
+              "xy": [
+                660,
+                125
+              ],
+              "rgb": [
+                0,
+                255,
+                0
+              ]
+            },
+            "single_B_or_Y": {
+              "xy": [
+                475,
+                430
+              ],
+              "rgb": [
+                0,
+                0,
+                255
+              ]
+            },
+            "RG_or_CM": {
+              "xy": [
+                475,
+                90
+              ],
+              "rgb": [
+                255,
+                255,
+                0
+              ]
+            },
+            "GB_or_MY": {
+              "xy": [
+                590,
+                290
+              ],
+              "rgb": [
+                0,
+                255,
+                255
+              ]
+            },
+            "BR_or_YC": {
+              "xy": [
+                360,
+                290
+              ],
+              "rgb": [
+                255,
+                0,
+                255
+              ]
+            },
+            "triple": {
+              "xy": [
+                475,
+                230
+              ],
+              "rgb": [
+                255,
+                255,
+                255
+              ]
+            }
+          }
+        },
+        {
+          "mode": "CMY",
+          "verified_sample_pixels": {
+            "single_R_or_C": {
+              "xy": [
+                300,
+                125
+              ],
+              "rgb": [
+                0,
+                255,
+                255
+              ]
+            },
+            "single_G_or_M": {
+              "xy": [
+                660,
+                125
+              ],
+              "rgb": [
+                255,
+                0,
+                255
+              ]
+            },
+            "single_B_or_Y": {
+              "xy": [
+                475,
+                430
+              ],
+              "rgb": [
+                255,
+                255,
+                0
+              ]
+            },
+            "RG_or_CM": {
+              "xy": [
+                475,
+                90
+              ],
+              "rgb": [
+                0,
+                0,
+                255
+              ]
+            },
+            "GB_or_MY": {
+              "xy": [
+                590,
+                290
+              ],
+              "rgb": [
+                255,
+                0,
+                0
+              ]
+            },
+            "BR_or_YC": {
+              "xy": [
+                360,
+                290
+              ],
+              "rgb": [
+                0,
+                255,
+                0
+              ]
+            },
+            "triple": {
+              "xy": [
+                475,
+                230
+              ],
+              "rgb": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

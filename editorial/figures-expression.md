@@ -1,3 +1,5 @@
+> 首版规划记录；当前图示以figure-inventory.md及figure-production.json为准，部分简笔图已撤下。
+
 # 第7–12章图文核对
 
 已阅读 scripts/draw_figures.py 中对应代码，正文按实际图意撰写。

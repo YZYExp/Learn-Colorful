@@ -1,0 +1,191 @@
+{
+  "generator": "scripts/redraw_systems.py",
+  "method": "统一Page精确图解，1080宽；全部数值由数据计算与断言",
+  "figures": [
+    {
+      "id": "02",
+      "width": 1080,
+      "height": 1770,
+      "text_items": 18,
+      "profile": "sRGB",
+      "data": {
+        "model": "non-emissive opaque green surface",
+        "incoming_bands": 3,
+        "reflective_path": "source → surface → eye",
+        "note": "schematic; neither measured spectrum nor energy fractions"
+      }
+    },
+    {
+      "id": "18",
+      "width": 1080,
+      "height": 2010,
+      "text_items": 34,
+      "profile": "sRGB",
+      "data": {
+        "category_counts": {
+          "阅读": 40,
+          "饮品": 55,
+          "展览": 30
+        },
+        "category_unit": "人",
+        "ordinal": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "diverging": [
+          -20,
+          -10,
+          0,
+          10,
+          20
+        ],
+        "diverging_unit": "百分点",
+        "zero": "实际参与率等于计划参与率"
+      }
+    },
+    {
+      "id": "21",
+      "width": 1080,
+      "height": 1930,
+      "text_items": 27,
+      "profile": "sRGB",
+      "data": {
+        "role_values": {
+          "action": "#24544B",
+          "surface": "#F6F1E7",
+          "text": "#202824",
+          "accent": "#C86345",
+          "error": "#9B3A2C"
+        },
+        "on_action": "#FFFFFF",
+        "controls": "button, surface heading, paragraph, decorative rule, field error"
+      }
+    },
+    {
+      "id": "22",
+      "width": 1080,
+      "height": 2050,
+      "text_items": 20,
+      "profile": "sRGB",
+      "data": {
+        "themes": [
+          {
+            "theme": "light",
+            "background": "#F6F1E7",
+            "text": "#202824",
+            "action": "#24544B",
+            "on_action": "#FFFFFF",
+            "selection": "#DFEEE7",
+            "selection_text": "#202824",
+            "error": "#9B3A2C",
+            "error_contrast": 6.145870322283754,
+            "action_contrast": 8.589859693473178
+          },
+          {
+            "theme": "dark",
+            "background": "#202824",
+            "text": "#F6F1E7",
+            "action": "#B9D9CE",
+            "on_action": "#202824",
+            "selection": "#24544B",
+            "selection_text": "#F6F1E7",
+            "error": "#F2B7A6",
+            "error_contrast": 8.702113115556802,
+            "action_contrast": 9.982146376432008
+          }
+        ],
+        "state_cues": "勾选、明确错误文字、按钮形状保持"
+      }
+    },
+    {
+      "id": "22b",
+      "width": 1080,
+      "height": 2170,
+      "text_items": 34,
+      "profile": "sRGB",
+      "data": {
+        "hsl_swatch_samples": [
+          {
+            "h": 169,
+            "s": 40,
+            "l": 92,
+            "hex": "#E2F3F0",
+            "contrast_on_warm": 1.018695037068097,
+            "normal_text_aa": false
+          },
+          {
+            "h": 169,
+            "s": 40,
+            "l": 80,
+            "hex": "#B8E0D9",
+            "contrast_on_warm": 1.2688226971659848,
+            "normal_text_aa": false
+          },
+          {
+            "h": 169,
+            "s": 40,
+            "l": 68,
+            "hex": "#8DCEC2",
+            "contrast_on_warm": 1.5889667689865108,
+            "normal_text_aa": false
+          },
+          {
+            "h": 169,
+            "s": 40,
+            "l": 56,
+            "hex": "#62BCAB",
+            "contrast_on_warm": 2.0057238338975036,
+            "normal_text_aa": false
+          },
+          {
+            "h": 169,
+            "s": 40,
+            "l": 44,
+            "hex": "#439D8D",
+            "contrast_on_warm": 2.8939502684130445,
+            "normal_text_aa": false
+          },
+          {
+            "h": 169,
+            "s": 40,
+            "l": 32,
+            "hex": "#317266",
+            "contrast_on_warm": 5.002060549695732,
+            "normal_text_aa": true
+          },
+          {
+            "h": 169,
+            "s": 40,
+            "l": 20,
+            "hex": "#1F4740",
+            "contrast_on_warm": 9.173231774864739,
+            "normal_text_aa": true
+          }
+        ],
+        "background": "#F6F1E7",
+        "threshold": 4.5
+      }
+    },
+    {
+      "id": "23",
+      "width": 1080,
+      "height": 2180,
+      "text_items": 17,
+      "profile": "sRGB",
+      "data": {
+        "workflow": [
+          "带源配置与版本的原稿",
+          "指定纸张/工艺/目标ICC",
+          "转换/软打样",
+          "输出副本与目标纸张实物样张",
+          "约定照明检查与签样/修订"
+        ],
+        "image_status": "AI虚构书刊仅充当产物标记；不是实际打样证据",
+        "actual_color_conversion": false
+      }
+    }
+  ]
+}

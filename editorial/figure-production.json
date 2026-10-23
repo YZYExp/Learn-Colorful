@@ -1,22 +1,154 @@
 {
-  "format": "1200×1600 RGB PNG",
-  "method": "Pillow deterministic drawing",
-  "palette": [
-    "#24544B",
-    "#F6F1E7",
-    "#C86345",
-    "#202824"
+  "version": 3,
+  "method": "precise editorial drawing with annotated applied designs",
+  "generator": "scripts/draw_figures.py",
+  "shared_style": "scripts/figure_style.py",
+  "figure_count": 19,
+  "retired_figure_ids": [
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "19",
+    "20",
+    "24"
   ],
-  "font_file": "NotoSerifCJKsc-Regular.otf",
-  "figure_count": 27,
-  "notes": [
-    "RGB illustrations are not physical material proofs.",
-    "Figures 3 and 5 use HSL; not perceptually uniform.",
-    "Figure 6 uses WCAG relative luminance formula.",
-    "Figure 18 uses fictitious data."
-  ],
-  "contrasts": {
-    "#B9B8A8": 1.7793,
-    "#24544B": 7.6305
-  }
+  "retirement_reason": "Redundant coarse symbolic scenes replaced by complete illustrated cases in the same chapters; originals remain in Git history.",
+  "font": "COLOR_BOOK_FONT or Noto CJK",
+  "images": [
+    {
+      "id": "01",
+      "width": 1080,
+      "height": 1960,
+      "mode": "RGB",
+      "sha256": "1bc9ac471b4269ac5289a04edf59cb807682d64985a81f7a1647515549b8a489"
+    },
+    {
+      "id": "02",
+      "width": 1080,
+      "height": 1770,
+      "mode": "RGB",
+      "sha256": "a873a202a0b5c11deaf2c36951e94babe902b737134768d7f2257d7e51622698"
+    },
+    {
+      "id": "02b",
+      "width": 1080,
+      "height": 1810,
+      "mode": "RGB",
+      "sha256": "3403e2ec47049a30de40e5b0550e71f06de7b5f7a911747ec0c952e38f93dd00"
+    },
+    {
+      "id": "03",
+      "width": 1080,
+      "height": 1540,
+      "mode": "RGB",
+      "sha256": "e8253b32d0a188f468ab0b60938b51c98a11657669b0496c8435594dddc911fc"
+    },
+    {
+      "id": "04",
+      "width": 1080,
+      "height": 1530,
+      "mode": "RGB",
+      "sha256": "974b9e842eb7c98a7de6369642ec548b3c015ed1626317595141975815001fd3"
+    },
+    {
+      "id": "05",
+      "width": 1080,
+      "height": 1770,
+      "mode": "RGB",
+      "sha256": "9a4915f443326f3ba10bc4d06087eb6474f7b42eefd559c869ded3619e67b47b"
+    },
+    {
+      "id": "06",
+      "width": 1080,
+      "height": 1410,
+      "mode": "RGB",
+      "sha256": "a1f1978a9975a02b1e4556eef0fae8b3ebf36de91469c0285b97d3cf6dd71491"
+    },
+    {
+      "id": "07",
+      "width": 1080,
+      "height": 1470,
+      "mode": "RGB",
+      "sha256": "9c18850f9cf634b7f5b3f36fcd7cf0ee979e83b9fda43dc40b0bc1717dcb1e11"
+    },
+    {
+      "id": "08",
+      "width": 1080,
+      "height": 1400,
+      "mode": "RGB",
+      "sha256": "86f09cb4eeb2d3722dccb97b332372fbe99dd5460ae4ea0ae34d94a5e2f7e85c"
+    },
+    {
+      "id": "08b",
+      "width": 1080,
+      "height": 1350,
+      "mode": "RGB",
+      "sha256": "76c8ef94562e1ab2f1557c2f87844512b33e32ec24bf21cef1f96e97f128aac1"
+    },
+    {
+      "id": "14",
+      "width": 1080,
+      "height": 2130,
+      "mode": "RGB",
+      "sha256": "2c80cef8620b143054c4e6a0c3f82cabf29d8dd801e9da3e97f40a0fc327338d"
+    },
+    {
+      "id": "15",
+      "width": 1080,
+      "height": 1710,
+      "mode": "RGB",
+      "sha256": "67d5370b73fec87bf51fc1232937c4c0490a1cf18bd08c68be926d6144ad3a2b"
+    },
+    {
+      "id": "16",
+      "width": 1080,
+      "height": 1970,
+      "mode": "RGB",
+      "sha256": "d91407b4b33947b5a71af4e5bc2db57dc0669ca956a7adaebef41f9847411dc0"
+    },
+    {
+      "id": "17",
+      "width": 1080,
+      "height": 1890,
+      "mode": "RGB",
+      "sha256": "026978554cbd804ae44f67cb115de558814be01a73f3b4fbf37fe0443c72d039"
+    },
+    {
+      "id": "18",
+      "width": 1080,
+      "height": 2010,
+      "mode": "RGB",
+      "sha256": "09ca091d0505459f4af87799f6e525d0697b0a1f2fad0850bae7bdf7c61caa95"
+    },
+    {
+      "id": "21",
+      "width": 1080,
+      "height": 1930,
+      "mode": "RGB",
+      "sha256": "93aacf02960fdf4be37ced2da5bc8f6604023ce46f7be48d94a09cff067eacc8"
+    },
+    {
+      "id": "22",
+      "width": 1080,
+      "height": 2050,
+      "mode": "RGB",
+      "sha256": "57e6f5ec91234ff858af7276018ca78770469b8943804b10d2682ae8528c5ce3"
+    },
+    {
+      "id": "22b",
+      "width": 1080,
+      "height": 2170,
+      "mode": "RGB",
+      "sha256": "bd7f9d7064eac8fa5a9b98f1859a8a6fdacebcfa7b7963ea45273c1ae365d82b"
+    },
+    {
+      "id": "23",
+      "width": 1080,
+      "height": 2180,
+      "mode": "RGB",
+      "sha256": "901ee524495a4454ae80c7b08925c4a260910be2b3156b9bde69997516d45650"
+    }
+  ]
 }

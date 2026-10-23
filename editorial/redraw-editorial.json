@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01",
+    "width": 1080,
+    "height": 1960,
+    "text_items": 31,
+    "profile": "sRGB",
+    "generator": "scripts/redraw_editorial.py",
+    "photography": "assets/images/chapter-v2-extract.png",
+    "method": "程序精确排印与图形；照片原比例嵌入、不重新染色",
+    "status": "saved; full image decode and visual review passed",
+    "verification": "shared photograph pixels identical across variants"
+  },
+  {
+    "id": "06",
+    "width": 1080,
+    "height": 1410,
+    "text_items": 17,
+    "profile": "sRGB",
+    "generator": "scripts/redraw_editorial.py",
+    "photography": null,
+    "method": "程序精确排印与图形；照片原比例嵌入、不重新染色",
+    "status": "saved; full image decode and visual review passed",
+    "verification": "WCAG ratios 1.7793 / 7.6305 asserted"
+  },
+  {
+    "id": "14",
+    "width": 1080,
+    "height": 2130,
+    "text_items": 29,
+    "profile": "sRGB",
+    "generator": "scripts/redraw_editorial.py",
+    "photography": "assets/images/chapter-v2-extract.png",
+    "method": "程序精确排印与图形；照片原比例嵌入、不重新染色",
+    "status": "saved; full image decode and visual review passed",
+    "verification": "shared photograph pixels identical across variants"
+  },
+  {
+    "id": "15",
+    "width": 1080,
+    "height": 1710,
+    "text_items": 18,
+    "profile": "sRGB",
+    "generator": "scripts/redraw_editorial.py",
+    "photography": "assets/images/chapter-v2-extract.png",
+    "method": "程序精确排印与图形；照片原比例嵌入、不重新染色",
+    "status": "saved; full image decode and visual review passed",
+    "verification": "text bounds and full image decode checked"
+  },
+  {
+    "id": "16",
+    "width": 1080,
+    "height": 1970,
+    "text_items": 21,
+    "profile": "sRGB",
+    "generator": "scripts/redraw_editorial.py",
+    "photography": "assets/images/applied-v2-16-{a,b,c,d}.png",
+    "method": "程序精确排印与图形；照片原比例嵌入、不重新染色",
+    "status": "saved; full image decode and visual review passed",
+    "verification": "text bounds and full image decode checked"
+  },
+  {
+    "id": "17",
+    "width": 1080,
+    "height": 1890,
+    "text_items": 23,
+    "profile": "sRGB",
+    "generator": "scripts/redraw_editorial.py",
+    "photography": "assets/images/chapter-v2-extract.png",
+    "method": "程序精确排印与图形；照片原比例嵌入、不重新染色",
+    "status": "saved; full image decode and visual review passed",
+    "verification": "text bounds and full image decode checked"
+  }
+]

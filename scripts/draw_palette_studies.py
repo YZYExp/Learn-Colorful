@@ -70,19 +70,8 @@ def studies(image_path):
     print('Generated 8 editorial palette studies with one unchanged AI teaching photograph')
 
 def cover():
-    im=Image.new('RGB',(1400,2000),'#F6F1E7');d=ImageDraw.Draw(im)
-    d.text((105,110),'色彩观察 · 配色实践 · 系统方法',font=ft(33),fill='#24544B')
-    d.rectangle((105,190,1295,194),fill='#24544B')
-    d.text((95,290),'色彩的语言',font=ft(178),fill='#202824')
-    d.text((110,535),'从看懂颜色到建立配色系统',font=ft(51),fill='#24544B')
-    cols=['#24544B','#C86345','#244799','#E2BC39','#6A345A','#B9D9CE']
-    for j,c in enumerate(cols):
-     x=110+(j%3)*405;y=800+(j//3)*400
-     d.rectangle((x,y,x+365,y+360),fill=c)
-     d.ellipse((x+85,y+80,x+280,y+275),fill=cols[(j+2)%6])
-    d.text((110,1730),'从一张色卡，到一个真实场景',font=ft(44),fill='#202824')
-    d.text((110,1820),'六篇 · 二十四章 · 图解知识读本',font=ft(32),fill='#24544B')
-    im.save(out/'cover.png',optimize=True)
+    from draw_cover import main as draw_current_cover
+    draw_current_cover()
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)

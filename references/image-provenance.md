@@ -2,13 +2,16 @@
 
 ## 精确教学图
 
-`fig-01.png`至`fig-24.png`及`fig-02b.png`、`fig-08b.png`、`fig-22b.png`由本工程 `scripts/draw_figures.py` 原创绘制。sRGB色值、HSL示意样本和WCAG相对亮度在脚本中可复算。每张图的教学边界写在图内/图注；数字图不证明真实材料的色差、照明或颜色情绪效应。图18为虚构数据，发散两端近似平衡感知明暗，不宣称整条色阶感知均匀。
+现行精确图解为19张：01、02、02b、03、04、05、06、07、08、08b、14、15、16、17、18、21、22、22b、23。由`scripts/draw_figures.py`调度三个重绘脚本，使用`figure_style.py`统一排印。数值与像素验证记录在`editorial/redraw-foundations.json`、`redraw-systems.json`和`redraw-editorial.json`；各图尺寸与内容散列见`editorial/figure-production.json`。
 
-`palette-01.png`至`palette-08.png`及封面由 `scripts/draw_palette_studies.py` 原创绘制；八组色彩应用不是年度趋势或真实品牌配色。数值记录于 `palette-studies.json`。
+旧版09、10、11、12、13、19、20、24八图已从阅读版撤下，分别由所在章节的完整场景、实物案例和可复算采样接替。原图与旧生成代码保留在Git历史中，不再由当前脚本生成。
+
+八组配色海报由`scripts/draw_palette_studies.py`排印，图像区域为AI虚构刊物；封面由`scripts/draw_cover.py`排印，图像使用本书虚构海边场景。嵌入图像保持原比例。八组应用不是年度趋势或真实品牌配色，数值见`palette-studies.json`。
+
 
 ## AI情景示意
 
-两张图使用内置 image_gen 生成（非CLI），生成日期2026-10-23，均已打开检查并实际嵌入正文。生成图不可用作校准、材料鉴定、建筑施工或实拍事实证明。色号在提示词中仅为外观方向，不意味着生成像素严格遵循。
+首版的以下两张图使用内置 image_gen 生成（非CLI），生成日期2026-10-23，均已打开检查并实际嵌入正文。生成图不可用作校准、材料鉴定、建筑施工或实拍事实证明。色号在提示词中仅为外观方向，不意味着生成像素严格遵循。
 
 ### jianse-space.png
 
@@ -33,3 +36,11 @@
 ## 使用与引用
 
 本书没有把AI图冒充真实品牌、真实建筑或历史作品。真实机构与品牌案例以正文就近的一手资料链接为依据。本记录不授予第三方品牌素材额外使用许可。
+
+## 后续场景与真实案例
+
+- `editorial/generated-case-prompts.json`：六组品牌、包装、材质、穿搭、刊物与空间生成图。
+- `editorial/generated-chapter-v2-prompts.json`：六组逐章应用场景。
+- `references/real-cases.json`与`references/real-cases-v2.json`：品牌和馆藏实图的原始地址、权利归属、日期。
+- `editorial/applied-case-v2.json`：完整海报、预约界面与交付场景的精确排印图。
+- `references/photographic-samples-v2.json`：源文件散列、实际像素坐标与sRGB采样。

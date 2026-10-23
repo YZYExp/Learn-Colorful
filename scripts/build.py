@@ -31,7 +31,7 @@ def validate(book):
             t=f.read_text()
             if len(re.findall(r'[\u3400-\u9fff]',t))<1100:errors.append(f'Chapter too short for planned treatment {f.name}')
             if not re.search(r'https?://',t):errors.append(f'No sources {f.name}')
-            if f'fig-{ch["order"]:02}.png' not in t:errors.append(f'Missing chapter figure reference {f.name}')
+            if not re.search(r'!\[[^\]]*\]\([^)]+\)',t):errors.append(f'No embedded teaching image {f.name}')
     if errors:raise SystemExit('\n'.join(errors))
     return {'chapters':len(book['chapters']),'documents':len(files),'han_characters':count,'embedded_images':len(images),'distinct_source_urls':len(urls),'checks':'chapter coverage, image and local-link existence, unfinished markers; external source reachability was checked during research, not exhaustively re-fetched here'}
 

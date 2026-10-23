@@ -1,3 +1,5 @@
+> 首版规划记录；当前图示以figure-inventory.md及figure-production.json为准，部分简笔图已撤下。
+
 # 第19–24章配图与正文对应
 
 图解代理已实际完成fig19–24；第22章补图fig22b由图解代理制作，主代理统一检查文件。

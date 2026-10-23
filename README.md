@@ -65,3 +65,9 @@ Git首次提交只含零字节README，后续按书稿与图解进展叠加。
 - `editorial/generated-chapter-v2-prompts.json`记录本轮6组生图。
 - `references/real-cases-v2.json`记录本轮馆藏图片来源。
 - `scripts/sample_chapter_photo.py`可复算第13章的采样色号。
+
+## 基础图解视觉修订
+
+旧的27张自创示意已重新审查：19张保留教学任务并重绘，8张重复的简笔图由所在章节的完整案例接替。颜色数值、面积比例、对比度与图表数据仍用程序控制；摄影、材料和完整应用承担具体场景。封面同步更新为精确排印结合原创场景。
+
+`python scripts/draw_figures.py`复现现行图解，`--only 04 02b`可只生成选定图。旧版已撤下图号不再生成，避免之后构建又覆盖成旧图。三个分组脚本与共享样式共同维护，数值验证记录见`editorial/redraw-*.json`。
